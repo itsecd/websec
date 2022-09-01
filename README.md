@@ -3,6 +3,7 @@
 ## Содержание
 - [Лекции](#лекции)
 - [Лабораторные работы](#лабораторные-работы)
+- [Материалы для саморазвития](#материалы)
 
 ## Лекции
 
@@ -169,3 +170,21 @@ Server-Side Request Forgery (SSRF)</td>
 <td></td>
 </tr>
 </table>
+
+## Материалы для саморазвития
+Роадмапы по веб-технологиям:
+- https://roadmap.sh/frontend
+- https://roadmap.sh/javascript
+- https://roadmap.sh/react
+
+Интерактивные курсы HTML, CSS, JS: 
+- https://www.w3schools.com/
+
+Справочники на русском: 
+- http://htmlbook.ru/
+- https://learn.javascript.ru/ 
+
+Средства для разработки:
+- https://code.visualstudio.com/
+- https://nginx.org/ru/download.html
+- https://notepad-plus-plus.org/downloads/
