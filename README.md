@@ -188,3 +188,6 @@ Server-Side Request Forgery (SSRF)</td>
 - https://code.visualstudio.com/
 - https://nginx.org/ru/download.html
 - https://notepad-plus-plus.org/downloads/
+
+По уязвимостям:
+- https://owasp.org/www-project-top-ten/
