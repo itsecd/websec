@@ -154,13 +154,13 @@ Server-Side Request Forgery (SSRF)</td>
 <tr>
 <td>1</td>
 <td>Упражнения на чистом JS</td>
-<td></td>
+<td>https://github.com/itsecd/websec-1/</td>
 </tr>
 
 <tr>
 <td>2-4</td>
 <td>Интерактивное приложение на HTML, CSS, JS</td>
-<td>https://github.com/itsecd/websec-1/</td>
+<td></td>
 </tr>
 
 <tr>
