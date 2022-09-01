@@ -33,41 +33,21 @@ HTML - DOM </td>
 
 <tr>
 <td>3</td>
-<td>HTML - лейауты</td>
+<td>HTML - лейауты<br/>
+HTML - семантическая разметка</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>HTML - доступность<br/>
-HTML - семантическая разметка<br/>
-HTML - хорошие и плохие привычки</td>
+<td>CSS - общая концепция<br/>
+CSS - селекторы, основные операторы<br/>
+CSS - хорошие привычки именования</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>CSS - общая концепция<br/>
-CSS - селекторы, основные операторы</td>
-<td>Презентация</td>
-</tr>
-
-<tr>
-<td>6</td>
-<td>CSS - стандарты, различия в браузерах<br/>
-CSS - адаптация к мобильным, @media</td>
-<td>Презентация</td>
-</tr>
-
-<tr>
-<td>7</td>
-<td>CSS - фреймворки<br/>
-CSS - LESS, Sass</td>
-<td>Презентация</td>
-</tr>
-
-<tr>
-<td>8</td>
 <td>JS - базовые знания, синтаксис<br/>
 JS - взаимодействие с DOM<br/>
 JS - взаимодействие с сервером, работа с XML и JSON</td>
@@ -75,60 +55,76 @@ JS - взаимодействие с сервером, работа с XML и JS
 </tr>
 
 <tr>
-<td>9</td>
+<td>6</td>
 <td>JS - современное состояние ES6, удобные конструкции<br/>
-JS - классы, фреймворки, модульность</td>
+JS - классы, фреймворки, модульность, jQuery</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>10</td>
-<td>Bootstrap, jQuery </td>
-<td>Презентация</td>
-</tr>
-
-<tr>
-<td>11</td>
+<td>7</td>
 <td>ReactJS - общая концепция<br/>
 ReactJS - компоненты, state и props, virtual DOM</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>12</td>
+<td>8</td>
 <td>ReactJS - создание проекта, отладка, публикация<br/>
 ReactJS - npm, основные полезные модули</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>13</td>
+<td>9</td>
+<td>Bootstrap</td>
+<td>Презентация</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>HTML - доступность<br/>
+HTML - хорошие и плохие привычки</td>
+<td>Презентация</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>CSS - стандарты, различия в браузерах<br/>
+CSS - адаптация к мобильным, @media<br/>
+CSS - фреймворки<br/>
+CSS - LESS, Sass</td>
+<td>Презентация</td>
+</tr>
+
+<tr>
+<td>12</td>
 <td>Типичные архитектуры веб-приложений</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>14</td>
+<td>13</td>
 <td>Схемы и протоколы аутентификации<br/>
 Программные интерфейсы: REST, gRPC, OpenAPI</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>15</td>
+<td>14</td>
 <td>OWASP Top 10</td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>16</td>
+<td>15</td>
 <td>Broken Access Control<br/>
 Cryptographic Failures </td>
 <td>Презентация</td>
 </tr>
 
 <tr>
-<td>17</td>
+<td>16</td>
 <td>Injections<br/>
 Identification and Authentication Failures<br/>
 Server-Side Request Forgery (SSRF)</td>
@@ -136,7 +132,7 @@ Server-Side Request Forgery (SSRF)</td>
 </tr>
 
 <tr>
-<td>18</td>
+<td>17</td>
 <td>Методика тестирования на уязвимости<br/>
 Способы автоматизации тестирования</td>
 <td>Презентация</td>
@@ -152,7 +148,7 @@ Server-Side Request Forgery (SSRF)</td>
 <tr>
 <th>№</th>
 <th>Тема</th>
-<th>Видеоинструкция</th>
+<th>Проект</th>
 </tr>
 
 <tr>
