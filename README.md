@@ -32,7 +32,7 @@
 HTML - основные элементы, формы<br/>
 HTML - DOM </td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%202.pptx">Презентация</a></td>
-  <td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/71d4faa7d386b576bf013911035c51a5d7dcd327-1662981109160">Видеозапись</a></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/71d4faa7d386b576bf013911035c51a5d7dcd327-1662981109160">Видеозапись</a></td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@ HTML - DOM </td>
 <td>HTML - лейауты<br/>
 HTML - семантическая разметка</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%203.pptx">Презентация</a></td>
-  <td></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/71d4faa7d386b576bf013911035c51a5d7dcd327-1663586241117">Видеозапись</a></td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@ HTML - семантическая разметка</td>
 CSS - селекторы, основные операторы<br/>
 CSS - хорошие привычки именования</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ CSS - хорошие привычки именования</td>
 JS - взаимодействие с DOM<br/>
 JS - взаимодействие с сервером, работа с XML и JSON</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -66,7 +66,7 @@ JS - взаимодействие с сервером, работа с XML и JS
 <td>JS - современное состояние ES6, удобные конструкции<br/>
 JS - классы, фреймворки, модульность, jQuery</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -74,7 +74,7 @@ JS - классы, фреймворки, модульность, jQuery</td>
 <td>ReactJS - общая концепция<br/>
 ReactJS - компоненты, state и props, virtual DOM</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -82,14 +82,14 @@ ReactJS - компоненты, state и props, virtual DOM</td>
 <td>ReactJS - создание проекта, отладка, публикация<br/>
 ReactJS - npm, основные полезные модули</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
 <td>9</td>
 <td>Bootstrap</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -97,7 +97,7 @@ ReactJS - npm, основные полезные модули</td>
 <td>HTML - доступность<br/>
 HTML - хорошие и плохие привычки</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -107,14 +107,14 @@ CSS - адаптация к мобильным, @media<br/>
 CSS - фреймворки<br/>
 CSS - LESS, Sass</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
 <td>12</td>
 <td>Типичные архитектуры веб-приложений</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -122,14 +122,14 @@ CSS - LESS, Sass</td>
 <td>Схемы и протоколы аутентификации<br/>
 Программные интерфейсы: REST, gRPC, OpenAPI</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
 <td>14</td>
 <td>OWASP Top 10</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -137,7 +137,7 @@ CSS - LESS, Sass</td>
 <td>Broken Access Control<br/>
 Cryptographic Failures </td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -146,7 +146,7 @@ Cryptographic Failures </td>
 Identification and Authentication Failures<br/>
 Server-Side Request Forgery (SSRF)</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -154,9 +154,8 @@ Server-Side Request Forgery (SSRF)</td>
 <td>Методика тестирования на уязвимости<br/>
 Способы автоматизации тестирования</td>
 <td>Презентация</td>
-  <td></td>
+<td></td>
 </tr>
-
 
 </table>
 
