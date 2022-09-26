@@ -49,7 +49,7 @@ HTML - семантическая разметка</td>
 CSS - селекторы, основные операторы<br/>
 CSS - хорошие привычки именования</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%204.pptx">Презентация</a></td>
-<td></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/71d4faa7d386b576bf013911035c51a5d7dcd327-1664190812931">Видеозапись</a></td>
 </tr>
 
 <tr>
