@@ -73,7 +73,7 @@ JS - классы, фреймворки, модульность, jQuery</td>
 <td>7</td>
 <td>ReactJS - общая концепция<br/>
 ReactJS - компоненты, state и props, virtual DOM</td>
-<td>Презентация</td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%207.pptx">Презентация</a></td>
 <td></td>
 </tr>
 
