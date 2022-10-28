@@ -81,8 +81,8 @@ ReactJS - компоненты, state и props, virtual DOM</td>
 <td>8</td>
 <td>ReactJS - создание проекта, отладка, публикация<br/>
 ReactJS - npm, основные полезные модули</td>
-<td>Презентация</td>
-<td></td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%208.pptx">Презентация</a></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/890b599287de21b16613dfc6d049d622d22ce800-1666609478631">Видеозапись</a></td>
 </tr>
 
 <tr>
