@@ -89,7 +89,7 @@ ReactJS - npm, основные полезные модули</td>
 <td>9</td>
 <td>Bootstrap</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%209.pptx">Презентация</a></td>
-<td></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/ecf21c7ef2f18eec425498488c117f6439b85dd8-1667215082606">Видеозапись</a></td>
 </tr>
 
 <tr>
