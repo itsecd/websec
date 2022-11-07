@@ -95,7 +95,7 @@ ReactJS - npm, основные полезные модули</td>
 <tr>
 <td>10</td>
 <td>Типичные архитектуры веб-приложений</td>
-<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%210.pptx">Презентация</a></td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2010.pptx">Презентация</a></td>
 <td></td>
 </tr>
 
