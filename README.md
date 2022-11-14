@@ -184,7 +184,7 @@ Server-Side Request Forgery (SSRF)</td>
 <tr>
 <td>5-8</td>
 <td>React-приложение</td>
-<td></td>
+<td>https://github.com/itsecd/websec-3/</td>
 </tr>
 </table>
 
