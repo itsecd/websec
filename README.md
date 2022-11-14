@@ -103,7 +103,7 @@ ReactJS - npm, основные полезные модули</td>
 <td>11</td>
 <td>HTML - доступность<br/>
 HTML - хорошие и плохие привычки</td>
-<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011.pptx">Презентация</a></td>
+<td>Презентация</td>
 <td></td>
 </tr>
 
@@ -121,7 +121,7 @@ CSS - LESS, Sass</td>
 <td>13</td>
 <td>Схемы и протоколы аутентификации<br/>
 Программные интерфейсы: REST, gRPC, OpenAPI</td>
-<td>Презентация</td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011.pptx">Презентация</a></td>
 <td></td>
 </tr>
 
