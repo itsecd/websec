@@ -135,15 +135,15 @@ CSS - LESS, Sass</td>
 <tr>
 <td>15</td>
 <td>Broken Access Control<br/>
-Cryptographic Failures </td>
-<td>Презентация</td>
+Cryptographic Failures<br/>
+Injections </td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2013.pptx">Презентация</a></td>
 <td></td>
 </tr>
 
 <tr>
 <td>16</td>
-<td>Injections<br/>
-Identification and Authentication Failures<br/>
+<td>Identification and Authentication Failures<br/>
 Server-Side Request Forgery (SSRF)</td>
 <td>Презентация</td>
 <td></td>
