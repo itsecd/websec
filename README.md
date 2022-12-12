@@ -101,24 +101,6 @@ ReactJS - npm, основные полезные модули</td>
 
 <tr>
 <td>11</td>
-<td>HTML - доступность<br/>
-HTML - хорошие и плохие привычки</td>
-<td>Презентация</td>
-<td></td>
-</tr>
-
-<tr>
-<td>12</td>
-<td>CSS - стандарты, различия в браузерах<br/>
-CSS - адаптация к мобильным, @media<br/>
-CSS - фреймворки<br/>
-CSS - LESS, Sass</td>
-<td>Презентация</td>
-<td></td>
-</tr>
-
-<tr>
-<td>13</td>
 <td>Схемы и протоколы аутентификации<br/>
 Программные интерфейсы: REST, gRPC, OpenAPI</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2011.pptx">Презентация</a></td>
@@ -126,14 +108,14 @@ CSS - LESS, Sass</td>
 </tr>
 
 <tr>
-<td>14</td>
+<td>12</td>
 <td>OWASP Top 10</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pptx">Презентация</a></td>
 <td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/ecf21c7ef2f18eec425498488c117f6439b85dd8-1669028827599">Видеозапись</a></td>
 </tr>
 
 <tr>
-<td>15</td>
+<td>13</td>
 <td>Broken Access Control<br/>
 Cryptographic Failures<br/>
 Injections</td>
@@ -142,7 +124,7 @@ Injections</td>
 </tr>
 
 <tr>
-<td>16</td>
+<td>14</td>
 <td>Insecure Design<br/>
 Security Misconfiguration<br/>
 Vulnerable and Outdated Components<br/>
@@ -155,6 +137,25 @@ Identification and Authentication Failures</td>
 <td>17</td>
 <td>Методика тестирования на уязвимости<br/>
 Способы автоматизации тестирования</td>
+<td>Презентация</td>
+<td></td>
+</tr>
+  
+  
+<tr>
+<td>?</td>
+<td>HTML - доступность<br/>
+HTML - хорошие и плохие привычки</td>
+<td>Презентация</td>
+<td></td>
+</tr>
+
+<tr>
+<td>?</td>
+<td>CSS - стандарты, различия в браузерах<br/>
+CSS - адаптация к мобильным, @media<br/>
+CSS - фреймворки<br/>
+CSS - LESS, Sass</td>
 <td>Презентация</td>
 <td></td>
 </tr>
