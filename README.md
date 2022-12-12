@@ -136,16 +136,18 @@ CSS - LESS, Sass</td>
 <td>15</td>
 <td>Broken Access Control<br/>
 Cryptographic Failures<br/>
-Injections </td>
+Injections</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2013.pptx">Презентация</a></td>
 <td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/ecf21c7ef2f18eec425498488c117f6439b85dd8-1669634249656">Видеозапись</a></td>
 </tr>
 
 <tr>
 <td>16</td>
-<td>Identification and Authentication Failures<br/>
-Server-Side Request Forgery (SSRF)</td>
-<td>Презентация</td>
+<td>Insecure Design<br/>
+Security Misconfiguration<br/>
+Vulnerable and Outdated Components<br/>
+Identification and Authentication Failures</td>
+<td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2014.pptx">Презентация</a></td>
 <td></td>
 </tr>
 
