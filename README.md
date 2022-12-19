@@ -138,26 +138,7 @@ Identification and Authentication Failures</td>
 <td>Методика тестирования на уязвимости<br/>
 Способы автоматизации тестирования</td>
 <td><a href="https://github.com/itsecd/websec/blob/main/%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2015.pptx">Презентация</a></td>
-<td></td>
-</tr>
-  
-  
-<tr>
-<td>?</td>
-<td>HTML - доступность<br/>
-HTML - хорошие и плохие привычки</td>
-<td>Презентация</td>
-<td></td>
-</tr>
-
-<tr>
-<td>?</td>
-<td>CSS - стандарты, различия в браузерах<br/>
-CSS - адаптация к мобильным, @media<br/>
-CSS - фреймворки<br/>
-CSS - LESS, Sass</td>
-<td>Презентация</td>
-<td></td>
+<td><a href="https://bbb.ssau.ru:8443/playback/presentation/2.3/ecf21c7ef2f18eec425498488c117f6439b85dd8-1671448823292">Видеозапись</a></td>
 </tr>
 
 </table>
